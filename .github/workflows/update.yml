@@ -1,0 +1,24 @@
+name: Update My Stats!
+on:
+  # schedule:
+  #   - cron: '0 0 * * *'
+  push:
+    branches: ["1-try-with-github-actions"]
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with: 
+          ref: '1-try-with-github-actions'
+
+      - name: Update Timestamp
+        run: |
+          sed -i '/Last updated:/d' README.md
+      
+          git config user.name "GitHub Actions"
+          git config user.email "actions@github.com"
+          git add README.md
+          git commit -m "Auto-update: Timestamp refresh"
+          git push
