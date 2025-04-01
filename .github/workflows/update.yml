@@ -3,7 +3,7 @@ on:
   schedule:
     - cron: '0 0 * * *'
   push:
-    branches: ["1-try-with-github-actions"]
+    branches: ["main"]
 
 jobs:
   update:
@@ -11,4 +11,4 @@ jobs:
     steps:
       - uses: actions/checkout@v4
         with: 
-          ref: '1-try-with-github-actions'
+          ref: 'main'
