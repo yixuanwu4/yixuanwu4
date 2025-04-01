@@ -2,7 +2,6 @@
 
 # Hey fella! <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/648.gif" width="40px">
 
-<hr>
 
 <p align="center" style="font-family: monospace; ">
   <code style="background-color: #000; "><span style="color: #4ECDC4;">I am Yixuan, an Ex-NLPist now crafting digital realities 👩🏻‍💻</span></code>
@@ -21,10 +20,6 @@
   <a href="mailto:y@ixuan.com">
     <img src="https://img.shields.io/badge/-Email-005FF9?logo=mail.ru&logoColor=white" alt="Email">
   </a>
-
-  <!-- <a href="weixin://dl/chat?{zxoys14}">
-    <img src="https://img.shields.io/badge/-WeChat-07C160?logo=wechat&logoColor=white" alt="WeChat">
-  </a> -->
 
 </div>
 
