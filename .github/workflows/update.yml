@@ -1,7 +1,7 @@
 name: Update My Stats!
 on:
-  # schedule:
-  #   - cron: '0 0 * * *'
+  schedule:
+    - cron: '0 0 * * *'
   push:
     branches: ["1-try-with-github-actions"]
 
@@ -15,7 +15,6 @@ jobs:
 
       - name: Update Timestamp
         run: |
-          sed -i '/Last updated:/d' README.md
       
           git config user.name "GitHub Actions"
           git config user.email "actions@github.com"
