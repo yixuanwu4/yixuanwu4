@@ -1,38 +1,48 @@
-### Hi there 👋 I'm Yixuan, a passionate Web Developer, UI Designer, and NLP enthusiast with a flair for creative work!
+<div align="center">
 
+# Hey fella! <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/648.gif" width="40px">
 
-<!--
-**yixuanwu4/yixuanwu4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div style="display: flex; gap: 8px; justify-content: center; ">
 
-Here are some ideas to get you started:
+  <a href="https://github.com/yixuanwu4" target="_blank">
+    <img src="https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white" alt="GitHub">
+  </a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  <a href="https://www.instagram.com/jinnnng4/" target="_blank">
+    <img src="https://img.shields.io/badge/-Instagram-E4405F?logo=instagram&logoColor=white" alt="Instagram">
+  </a>
 
-Welcome to my GitHub repository! Here, you'll find a collection of my projects (to be organised), showcasing my love for web development, UI design, and computational linguistics (NLP). 
+  <a href="mailto:y@ixuan.com">
+    <img src="https://img.shields.io/badge/-Email-005FF9?logo=mail.ru&logoColor=white" alt="Email">
+  </a>
 
-## About Me 🧑🌏
+</div>
 
-- 🎓 **Master's in Computational Linguistics**: My academic journey has led me to explore the intricacies of language processing, and I'm always excited to apply my knowledge in practical applications.
-- 🐍 **Python Lover**: Python is my go-to language for most of my projects due to its versatility and ease of use. Whether it's data analysis, or NLP tasks, Python is my trusty companion.
-- 💻 **Web Development Enthusiast**: I'm proficient in HTML, CSS, and JavaScript, the essential trio of web development languages. Crafting beautiful and functional user interfaces is something that truly excites me.
-- 🌐 **Multicultural Background**: Originally from China, my educational journey took me to the UK and Germany, where I've had the opportunity to embrace diverse cultures and perspectives.
+<p align="center" style="font-family: monospace; ">
+  <code style="background-color: #000; "><span style="color: #4ECDC4;">I am Yixuan, an Ex-NLPist now crafting digital realities 👩🏻‍💻</span></code>
+</p>
 
-## Interests Beyond Code 🌈
+### ⚡️ Technologies  
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)  ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)  ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black) ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)  ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)  ![Astro](https://img.shields.io/badge/-Astro-FF5D01?logo=astro&logoColor=white)  ![Julia](https://img.shields.io/badge/-Julia-9558B2?logo=julia&logoColor=white)  ![Java](https://img.shields.io/badge/-Java-007396?logo=openjdk&logoColor=white) ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white) ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visual-studio-code&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)  ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white) ![macOS](https://img.shields.io/badge/-macOS-000000?logo=apple&logoColor=white)  ![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black) 
 
-While coding keeps me engaged, I believe in finding a balance in life. During my free time, you can often find me embarking on exciting adventures through travel or enjoying the thrill of sports. Embracing creativity in all aspects of life is my mantra!
+### 🚀 GitHub Stats
+<div align="center">
+  <a href="https://github.com/yixuanwu4" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api?username=yixuanwu4&show_icons=true&theme=panda&hide_border=true" align="center" height="140rem">
+  </a>
+  <a href="https://github.com/yixuanwu4" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yixuanwu4&layout=compact&theme=panda&hide_border=true" align="center" height="140rem">
+  </a>
+</div>
 
-## Get in Touch 📬
+### 🎮 These also interest me...  
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white)  ![Blender](https://img.shields.io/badge/-Blender-F5792A?logo=blender&logoColor=white) ![Penpot](https://img.shields.io/badge/-Penpot-000000?logo=penpot&logoColor=white) ![DaVinci Resolve](https://img.shields.io/badge/-DaVinci%20Resolve-000000?logo=blackmagicdesign&logoColor=gold) ![Inkscape](https://img.shields.io/badge/Inkscape-000000?&logo=Inkscape&logoColor=white)
 
-I'm always eager to connect with fellow developers, designers, or anyone with shared interests! Feel free to reach out to me through my email wyx687197@gmail.com (no spam).
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=yixuanwu4&base=100&color=green&label=_😎_Hi_visitor+No." />
+</p>
 
-Thank you for visiting my GitHub!
-
-Happy coding! 🎉
+<p align="center">
+    <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="400" alt="Typing cat">
+</p>
+</div>
