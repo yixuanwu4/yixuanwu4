@@ -2,47 +2,74 @@
 
 # Hey fella! <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/648.gif" width="40px">
 
-<div style="display: flex; gap: 8px; justify-content: center; ">
+[![GitHub](https://img.shields.io/badge/-GitHub-31353a?logo=github&logoColor=FF75B5)](https://github.com/yixuanwu4) [![Instagram](https://img.shields.io/badge/-Instagram-31353a?logo=instagram&logoColor=FF75B5)](https://instagram.com/jinnnng4) [![Email](https://img.shields.io/badge/-Email-31353a?logo=mail.ru&logoColor=FF75B5)](mailto:y@ixuan.com)
 
-  <a href="https://github.com/yixuanwu4" target="_blank">
-    <img src="https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white" alt="GitHub">
-  </a>
-
-  <a href="https://www.instagram.com/jinnnng4/" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-E4405F?logo=instagram&logoColor=white" alt="Instagram">
-  </a>
-
-  <a href="mailto:y@ixuan.com">
-    <img src="https://img.shields.io/badge/-Email-005FF9?logo=mail.ru&logoColor=white" alt="Email">
-  </a>
-
+<div style="
+  background-color: #1E1E1E;
+  color: #4ECDC4;
+  padding: 16px;
+  border-radius: 8px;
+  font-family: monospace;
+  text-align: left;
+  max-width: 80%;
+  margin: 0 auto;
+">
+  <span style="color: #569CD6;">About Me</span>: <span style="color: #DCDCAA;">I am Yixuan, an Ex-NLPist now crafting digital realities</span> 👩🏻‍💻;<br>
+  <span style="color: #569CD6;">Location</span>: <span style="color: #DCDCAA;">Zürich, Switzerland</span>;
 </div>
-
-<p align="center" style="font-family: monospace; ">
-  <code style="background-color: #000; "><span style="color: #4ECDC4;">I am Yixuan, an Ex-NLPist now crafting digital realities 👩🏻‍💻</span></code>
-</p>
 
 ### ⚡️ Technologies  
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)  ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)  ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black) ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)  ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)  ![Astro](https://img.shields.io/badge/-Astro-FF5D01?logo=astro&logoColor=white)  ![Julia](https://img.shields.io/badge/-Julia-9558B2?logo=julia&logoColor=white)  ![Java](https://img.shields.io/badge/-Java-007396?logo=openjdk&logoColor=white) ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white) ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visual-studio-code&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)  ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white) ![macOS](https://img.shields.io/badge/-macOS-000000?logo=apple&logoColor=white)  ![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black) 
+![Python](https://img.shields.io/badge/-Python-31353a?logo=python&logoColor=4ECDC4)
+![TypeScript](https://img.shields.io/badge/-TypeScript-31353a?logo=typescript&logoColor=4ECDC4)
+![React](https://img.shields.io/badge/-React-31353a?logo=react&logoColor=4ECDC4)
+![Docker](https://img.shields.io/badge/-Docker-31353a?logo=docker&logoColor=4ECDC4)
+![Node.js](https://img.shields.io/badge/node.js-31353a?&logo=Node.js&logoColor=4ECDC4)
+![MySQL](https://img.shields.io/badge/-MySQL-31353a?logo=mysql&logoColor=4ECDC4)
 
 ### 🚀 GitHub Stats
-<div align="center">
-  <a href="https://github.com/yixuanwu4" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api?username=yixuanwu4&show_icons=true&theme=panda&hide_border=true" align="center" height="140rem">
+<div style="text-align: center; white-space: nowrap;">
+  <a href="https://github.com/yixuanwu4" target="_blank" style="display: inline-block; height: 140px; margin-right: 10px;">
+    <img src="https://github-readme-stats.vercel.app/api?username=yixuanwu4&show_icons=true&theme=panda&hide_border=true" height="140">
   </a>
-  <a href="https://github.com/yixuanwu4" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yixuanwu4&layout=compact&theme=panda&hide_border=true" align="center" height="140rem">
+  <a href="https://github.com/yixuanwu4" target="_blank" style="display: inline-block; height: 140px;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yixuanwu4&layout=compact&theme=panda&hide_border=true" height="140">
   </a>
 </div>
 
-### 🎮 These also interest me...  
-![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white)  ![Blender](https://img.shields.io/badge/-Blender-F5792A?logo=blender&logoColor=white) ![Penpot](https://img.shields.io/badge/-Penpot-000000?logo=penpot&logoColor=white) ![DaVinci Resolve](https://img.shields.io/badge/-DaVinci%20Resolve-000000?logo=blackmagicdesign&logoColor=gold) ![Inkscape](https://img.shields.io/badge/Inkscape-000000?&logo=Inkscape&logoColor=white)
+<br>
+<details>
+  <summary><b>🌈 Other Skills 🗂️</b></summary>
+  <div align="center" style="margin-top: 10px;">
+
+  #### 🖥️ Languages
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
+  ![Java](https://img.shields.io/badge/-Java-007396?logo=openjdk&logoColor=white)
+  ![Julia](https://img.shields.io/badge/-Julia-9558B2?logo=julia&logoColor=white)
+  #### 🌐 Web
+  ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)
+  ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)
+  ![Astro](https://img.shields.io/badge/-Astro-FF5D01?logo=astro&logoColor=white)
+  #### 🛠️ Tools
+  ![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?logo=visual-studio-code&logoColor=white)
+  ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
+  ![macOS](https://img.shields.io/badge/-macOS-000000?logo=apple&logoColor=white)
+  ![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black)
+  #### 🎨 Design
+  ![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white)
+  ![Blender](https://img.shields.io/badge/-Blender-F5792A?logo=blender&logoColor=white)
+  ![Penpot](https://img.shields.io/badge/-Penpot-000000?logo=penpot&logoColor=white)
+  </div>
+</details>
+<br>
+
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=yixuanwu4&base=100&color=green&label=_😎_Hi_visitor+No." />
+    <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="100" alt="Typing cat">
 </p>
 
 <p align="center">
-    <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="400" alt="Typing cat">
+  <img src="https://komarev.com/ghpvc/?username=yixuanwu4&base=100&color=green&label=_😎_Have_a_good_day_visitor+No." />
 </p>
+
+
 </div>
