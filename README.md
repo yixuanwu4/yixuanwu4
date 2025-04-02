@@ -4,19 +4,21 @@
 
 [![GitHub](https://img.shields.io/badge/-GitHub-31353a?logo=github&logoColor=FF75B5)](https://github.com/yixuanwu4) [![Instagram](https://img.shields.io/badge/-Instagram-31353a?logo=instagram&logoColor=FF75B5)](https://instagram.com/jinnnng4) [![Email](https://img.shields.io/badge/-Email-31353a?logo=mail.ru&logoColor=FF75B5)](mailto:y@ixuan.com)
 
-<div style="
-  background-color: #1E1E1E;
-  color: #4ECDC4;
-  padding: 16px;
-  border-radius: 8px;
-  font-family: monospace;
-  text-align: left;
-  max-width: 80%;
-  margin: 0 auto;
-">
-  <span style="color: #569CD6;">About Me</span>: <span style="color: #DCDCAA;">I am Yixuan, an Ex-NLPist now crafting digital realities</span> 👩🏻‍💻;<br>
-  <span style="color: #569CD6;">Location</span>: <span style="color: #DCDCAA;">Zürich, Switzerland</span>;
-</div>
+```text
+ __   __ ___ __  __ _   _   _    _  _ 
+ \ \ / /|_ _|\ \/ /| | | | /_\  | \| |
+  \ V /  | |  >  < | |_| |/ _ \ | .` |
+   |_|  |___|/_/\_\ \___//_/ \_\|_|\_|
+
+ > STORY: Ex-NLP Researcher       
+ >         turned Web Artisan 👩🏻‍💻  
+ >                                
+ > METHOD: 100% Self-Taught       
+ >         via docs & projects    
+ >                                
+ > LOC:    Zürich, Switzerland    
+                       
+```
 
 ### ⚡️ Technologies  
 ![Python](https://img.shields.io/badge/-Python-31353a?logo=python&logoColor=4ECDC4)
