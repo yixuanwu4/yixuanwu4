@@ -1,6 +1,8 @@
 <div align="center">
 
-# Hey fella! <img src="intro.png">
+# Hey there! 
+
+<img src="intro.png" width=500px>
 
 <!-- [![GitHub](https://img.shields.io/badge/-GitHub-31353a?logo=github&logoColor=FF75B5)](https://github.com/yixuanwu4) [![Instagram](https://img.shields.io/badge/-Instagram-31353a?logo=instagram&logoColor=FF75B5)](https://instagram.com/jinnnng4) [![Email](https://img.shields.io/badge/-Email-31353a?logo=mail.ru&logoColor=FF75B5)](mailto:y@ixuan.com)
 
