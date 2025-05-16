@@ -1,8 +1,8 @@
 <div align="center">
 
-# Hey fella! <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/648.gif" width="40px">
+# Hey fella! <img src="intro.png">
 
-[![GitHub](https://img.shields.io/badge/-GitHub-31353a?logo=github&logoColor=FF75B5)](https://github.com/yixuanwu4) [![Instagram](https://img.shields.io/badge/-Instagram-31353a?logo=instagram&logoColor=FF75B5)](https://instagram.com/jinnnng4) [![Email](https://img.shields.io/badge/-Email-31353a?logo=mail.ru&logoColor=FF75B5)](mailto:y@ixuan.com)
+<!-- [![GitHub](https://img.shields.io/badge/-GitHub-31353a?logo=github&logoColor=FF75B5)](https://github.com/yixuanwu4) [![Instagram](https://img.shields.io/badge/-Instagram-31353a?logo=instagram&logoColor=FF75B5)](https://instagram.com/jinnnng4) [![Email](https://img.shields.io/badge/-Email-31353a?logo=mail.ru&logoColor=FF75B5)](mailto:y@ixuan.com)
 
 ```text
  __   __ ___ __  __ _   _   _    _  _ 
@@ -62,7 +62,7 @@
   ![Penpot](https://img.shields.io/badge/-Penpot-000000?logo=penpot&logoColor=white)
   </div>
 </details>
-<br>
+<br> -->
 
 
 <p align="center">
