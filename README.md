@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hey there! 
+# Hey there! 👋
 
 <img src="intro.png" width=666px>
 
